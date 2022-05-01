@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Week 2 Practical</string>
+    <string name="description">Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="follow">FOLLOW</string>
+    <string name="message">MESSAGE</string>
+    <string name="name">Hello World!</string>
+</resources>
